@@ -6,6 +6,7 @@ handle: massive-assembly
 image: /assets/images/projects/assembly-invivo-invitro.svg
 category: project
 tags: [yeast, translation, selection, quinary]
+published: false
 ---
 {% include JB/setup %}
 

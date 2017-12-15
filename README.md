@@ -1,11 +1,11 @@
-# The Drummond Lab main website
+# The Wallace Lab main website
 
 ##
 
 
 ### TODOS
 
-See Issues on [the site](https://github.com/drummondlab/drummondlab.github.io).
+See Issues on [the site](https://github.com/ewallace/wallacelabrna.github.io).
 
 ## How to add content
 

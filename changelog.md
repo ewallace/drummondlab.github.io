@@ -5,6 +5,11 @@ Incremental version bumps that were not released publicly are nested where appro
 
 P.S. If there is a standard (popular) changelog format, please let me know.
 
+- **0.4.0 : 2017.12.13**
+    - **Features**
+    - First Wallace Lab website!
+    - adapted from Drummond lab website, http://drummondlab.org
+
 - **0.3.0 : 2013.02.24**
     - **Features**
     - Update twitter bootstrap to 2.2.2. Add responsiveness and update design a bit.

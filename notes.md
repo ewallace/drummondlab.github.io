@@ -37,7 +37,10 @@ Issues are tracked at GitHub [github-issues].
 * Content
 	* Lab members
 	* Publications
+		* Extremely fast and incredibly close
+		* Grad school papers
 	* Protocols
+	
 
         <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
           with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
@@ -69,12 +72,10 @@ I'm inspired by [Trevor Bedford]'s clean, functional [site][1]. I intend to copy
 * Home
 	* Research
 	* Papers
-		* Queuosine modification of tRNA and codon usage
-		* The relationship between mRNA and protein levels
-		* Heat triggers reversible...
 	* Team
 	* Blog
 	* Protocols
+	* Links
 	* Misc
 		* About
 		* Join
@@ -105,16 +106,16 @@ Each of the major areas is structured like a blog. For example:
 		_posts/
 			2015-04-09-pg-paper-accepted.md
 
-For team, use a tag to indicate 'current' vs 'alumni'?
+
 
 ## To do
 
+* Links/collaborators page
 * Home page
-	* Text
 	* Picture
 	* Links to About, Join, Contact
-* Styles -- Sass
-* Blog post on what is happening here, experiences getting up and running.
+* Style
+    * Colour, layout, distinctive
 * About page
 * Twitter/Disqus...
 
